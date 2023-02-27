@@ -1,10 +1,10 @@
-totafsdfsf test fdsfsdf
-totafsdtest2 fdsfsdf fdfjs
-jfldjfldk # wynik
-fjdfsfds # k alal
-djfjkldsjf test5 jjjjjj fsfjdljfdlsj flj ldfj
-gjjkdsljflds test6 jdlkfjdslf
-fjdslkfjdl test7 tttttt
-fjdlsjfkl test8 oooolll
-rwrewrew test9 fjdslkjfdl
-fjdlskjfldjflj test10 rewrewrew
+TEST
+test2
+totafsdTEST3 fdsfsdf fdfjs
+zebra # k
+#K
+TOTAFSDTEST6 FDSFSDF FDFJS
+aBCDeFghI
+pies teST7 kot
+k k# k
+#tesT9k
