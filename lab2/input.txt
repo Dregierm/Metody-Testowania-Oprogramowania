@@ -14,3 +14,5 @@ Zero #.0k zero.
 test6
 ABC #.1kk ##
 test7
+Litera #.1a2k w liczbach
+test8
