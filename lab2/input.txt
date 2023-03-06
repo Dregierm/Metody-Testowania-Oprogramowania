@@ -8,3 +8,5 @@ Brak #.k liczby.
 test3
 Brak #2k kropki.
 test4
+Liczba #.-4k ujemna.
+test5
