@@ -10,3 +10,5 @@ Brak #2k kropki.
 test4
 Liczba #.-4k ujemna.
 test5
+Zero #.0k zero.
+test6

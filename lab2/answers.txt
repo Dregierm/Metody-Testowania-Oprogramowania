@@ -4,3 +4,4 @@ Ala ma TEST2 zdany.
 Brak #.k liczby.
 Brak #2k kropki.
 Liczba #.-4k ujemna.
+Zero  zero.
