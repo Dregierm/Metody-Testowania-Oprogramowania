@@ -3,20 +3,19 @@
 import sys
 
 def my_printf(format_string,param):
-    #print(format_string)
-    shouldDo=True
-    for idx in range(0,len(format_string)):
-        if shouldDo:
-            if format_string[idx] == '#' and format_string[idx+1] == 'k':
-                print(param.swapcase(),end="")
-                shouldDo=False
-            else:
-                print(format_string[idx],end="")
+    i = 0
+    format_str_len = len(format_string)
+    while i < format_str_len:    
+        if i+1 < format_str_len and format_string[i] == '#' and format_string[i+1] == 'k':
+            print(param.swapcase(), end="")
+            i += 1  
         else:
-            shouldDo=True
+                print(format_string[i], end="")
+        i += 1    
     print("")
 
 data=sys.stdin.readlines()
 
 for i in range(0,len(data),2):
     my_printf(data[i].rstrip(),data[i+1].rstrip())
+
