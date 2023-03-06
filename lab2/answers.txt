@@ -5,3 +5,4 @@ Brak #.k liczby.
 Brak #2k kropki.
 Liczba #.-4k ujemna.
 Zero  zero.
+ABC Tk ##
