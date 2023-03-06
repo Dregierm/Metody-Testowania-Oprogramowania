@@ -1,0 +1,6 @@
+#k
+test0
+#.3k
+test1
+Ala ma #.100k zdany.
+test2
