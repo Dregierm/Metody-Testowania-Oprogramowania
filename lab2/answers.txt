@@ -7,3 +7,4 @@ Liczba #.-4k ujemna.
 Zero  zero.
 ABC Tk ##
 Litera #.1a2k w liczbach
+tE

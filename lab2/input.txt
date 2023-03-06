@@ -16,3 +16,5 @@ ABC #.1kk ##
 test7
 Litera #.1a2k w liczbach
 test8
+#.02k
+TeSt9
