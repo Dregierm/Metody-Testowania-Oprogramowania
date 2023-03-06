@@ -6,3 +6,5 @@ Ala ma #.100k zdany.
 test2
 Brak #.k liczby.
 test3
+Brak #2k kropki.
+test4
