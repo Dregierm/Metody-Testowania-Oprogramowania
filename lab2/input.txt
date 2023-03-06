@@ -1,2 +1,4 @@
 #k
 test0
+#.3k
+test1
