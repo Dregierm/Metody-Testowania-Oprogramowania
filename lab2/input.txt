@@ -4,3 +4,5 @@ test0
 test1
 Ala ma #.100k zdany.
 test2
+Brak #.k liczby.
+test3
