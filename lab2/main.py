@@ -20,7 +20,9 @@ def my_printf(format_string,param):
             elif format_string[i] != 'k':
                 print(format_string[i-num_len-2:i+1], end="")
             else:
-                #TODO  
+                num = int(format_string[i-num_len:i])
+                print(param[:num].swapcase(), end="")
+                num_len = 0    
         else:
                 print(format_string[i], end="")
         i += 1    
