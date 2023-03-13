@@ -6,3 +6,5 @@ test1
 tEst2
 #5.2k
 TEST3
+Nowy #.k #ak
+test4
