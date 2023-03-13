@@ -10,3 +10,5 @@ Nowy #.k #ak
 test4
 teestt_#10.3k_teestt
 test5
+#1k
+test6
