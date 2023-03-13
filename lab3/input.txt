@@ -16,3 +16,5 @@ test6
 test7
 #6..4k
 test8
+mto #..k #a.bk #tk #8.4k ##ok
+test9
