@@ -27,7 +27,7 @@ def my_printf(format_string, param):
         to_replace = format_string[search_g.start() : search_g.end()]
 
         if str(param).isnumeric():
-            print(format_string.replace(to_replace, str(param)[::-1]))
+            print(format_string.replace(to_replace, str(int(str(param)[::-1]))))
         else:
             return print(format_string)  
 

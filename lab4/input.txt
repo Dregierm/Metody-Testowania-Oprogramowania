@@ -8,3 +8,5 @@ test3 #g test3
 7503
 ## .g# fs gg### g
 852
+#g
+100
