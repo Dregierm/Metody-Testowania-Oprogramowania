@@ -4,3 +4,7 @@ abcd #g efgh
 555
 test3 #g test3
 0
+##c###gg####c#
+7503
+## .g# fs gg### g
+852
