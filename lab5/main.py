@@ -11,12 +11,12 @@ def my_printf(format_string, param):
 
     to_replace = format_string[search_g.start() : search_g.end()]
     param_len = len(str(param))
-
-    if str(param).isnumeric():
+    is_min = 1 if str(param)[0] == '-' else 0		
+    if str(param).isnumeric() or is_min:
             if search_g.group(1): #Xg
                 print_spaces = max(int(search_g.group(1)) - param_len, 0)
                 param = list(str(param))
-                for i in range(param_len):
+                for i in range(is_min, param_len):
                     param[i] = str(int(param[i]) - 1) if param[i] != '0' else '9'
                 param = str(''.join(param))
                 return print(format_string.replace(to_replace,  " "*print_spaces + param))    
