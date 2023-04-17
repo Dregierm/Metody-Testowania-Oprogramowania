@@ -8,3 +8,5 @@ aaa #.5g aaa
 0
 test5_#.0g_test5
 22222
+xxx#.10gxxx
+987654321
