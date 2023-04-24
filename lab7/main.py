@@ -12,13 +12,16 @@ replacer = {
     'f': 'l',
 }
 
+def tohex(val, nbits):
+  return hex((val + (1 << nbits)) % (1 << nbits))
+
 def my_printf(format_string, param):
     search = re.search("#j", format_string)
     if not search:
         return print(format_string)
     
     to_replace = format_string[search.start() : search.end()]
-    hex_param = list(str(hex(int(param)))[2:])
+    hex_param = list(str(tohex(int(param), 32))[2:])
 
     for i in range(len(hex_param)):
         if not hex_param[i].isnumeric():
