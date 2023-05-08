@@ -1,0 +1,20 @@
+#.1k
+test0
+#.3k
+test1
+Ala ma #.100k zdany.
+test2
+gd #.2k we.
+test3
+dgdfg #.5k dfgdfg.
+test4
+Liczba #.4k 5.
+test5
+Zero #.0k zero.
+test6
+ABC #.1kk ##
+test7
+Litera #.1k w liczbach
+Test8
+#.02k
+TeSt9

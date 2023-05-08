@@ -1,43 +1,3 @@
-totafsdfsf #.k fdsfsdf
-test
-totafsd #.k fdsfsdf fdfjs
-test2
-jfldjfldk #.ak wynik
-test3
-fjdfsfds #./k alal
-test4
-djfjkldsjf #.-k jjjjjj fsfjdljfdlsj flj ldfj
-test5
-gjjkdsljflds #. k  jdlkfjdslf
-test6
-fjdslkfjdl #. 2k tttttt
-test7
-fjdlsjfkl #.3 k oooolll
-test8
-rwrewrew #.-5k fjdslkjfdl
-test9
-fjdlskjfldjflj #.-10k rewrewrew
-test10
-#.1k
-test0
-#.3k
-test1
-Ala ma #.100k zdany.
-test2
-gd #.2k we.
-test3
-dgdfg #.5k dfgdfg.
-test4
-Liczba #.4k 5.
-test5
-Zero #.0k zero.
-test6
-ABC #.1kk ##
-test7
-Litera #.1k w liczbach
-Test8
-#.02k
-TeSt9
 totafsdfsf #.3k fdsfsdf
 testfjdslkfjdsljfldsjfldskjfdslkfjdskljfdsljfjdsklf
 totafsd #.15k fdsfsdf fdfjs
@@ -58,23 +18,3 @@ rwrewrew #.1050k fjdslkjfdl
 AAAAAAAAAAAAAAAAAAVJLKJGFJSDLFJDLSKFJLDKSJFLDSKJFLDKSAFJLSADKFJLDSAJFLSAKFJSALFKJASLFJLASDKJFKASJFASDKLFJASLKFJLASDKFJASLKDJFLSKDJFLKASDJFKLASDJLSKFJDSLKAFJLKSDJFLASDKJFKDASLFJSLDKAJFSADKLFSJLKFJSALKFJDKLSJFLASFJDLAKS
 fjdlskjfldjflj #.13k rewrewrew
 432483294823908402398402398402398403298402384023840238402384023848230482304823094803298402398420384823094823048230492384092384082
-totafsdfsf #.k fdsfsdf
-test
-totafsd #.3l fdsfsdf fdfjs
-tes
-jfldjfldk # wynik
-te
-fjdfsfds #.fk alal
-t
-djfjkldsjf #.25l jjjjjj fsfjdljfdlsj flj ldfj
-o
-gjjkdsljflds #3l jdlkfjdslf
-s
-fjdslkfjdl #1k tttttt
-7
-fjdlsjfkl #.1l oooolll
-8
-rwrewrew #l #k.2 fjdslkjfdl
-9
-fjdlskjfldjflj #.k2 rewrewrew
-0
