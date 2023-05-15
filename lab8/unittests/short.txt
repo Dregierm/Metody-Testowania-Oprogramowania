@@ -8,3 +8,13 @@ cba #.11j cba
 987654321
 test5 test5 #.5j test5
 908643
+#.10j
+555555
+## j# #p #.2j ##i#
+687321498
+test8: #.3j
+1008
+teri erito #.8j ##
+4893154
+test ostatni 10: #.9j 10
+77896620
