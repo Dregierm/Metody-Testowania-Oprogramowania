@@ -6,3 +6,5 @@ abc #.0j abc
 123456789
 cba #.11j cba
 987654321
+test5 test5 #.5j test5
+908643
