@@ -12,8 +12,6 @@ b.6000000000
 test2: ff.678000000000000
 longgg: ejji.049340444444152200000 __
 afa_0000 = dcg.87155555555557 ===
-bc
-test: baa
 bbcd.633801310
 abc: jigf.10349874
 totafsdfsf #.h fdsfsdf
