@@ -34,12 +34,15 @@ def my_printf(format_string, param):
     
     for x in int_part:
     	res += replacer[x]
-    res += "."		
     
-    for x in float_part:
-    	res += str((int(x) + 5) % 10)
+    print_zeros = 0
+    if param_num != 0:
+    	res += "."		
     
-    print_zeros = max(param_num - len(float_part), 0)
+    	for x in float_part:
+    		res += str((int(x) + 5) % 10)
+    
+    	print_zeros = max(param_num - len(float_part), 0)
     
     print(format_string.replace(to_replace, res + print_zeros*'0'))
 
