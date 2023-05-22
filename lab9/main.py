@@ -29,9 +29,16 @@ def my_printf(format_string, param):
         param_num = int(search.group(1)[1:])
 
     int_part, float_part = divmod(float(param), 1)
-    float_part = round(float_part, param_num)
-    print(int_part)
-    print(float_part)  
+    int_part = str(int(int_part))
+    float_part = str(round(float_part, param_num))[2:]
+    
+    for x in int_part:
+    	res += replacer[x]
+    res += "."		
+    
+    for x in float_part:
+    	res += str((int(x) + 5) % 10)
+    
 
 
 data = sys.stdin.readlines()
