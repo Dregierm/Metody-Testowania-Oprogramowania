@@ -1,22 +1,28 @@
 #!/usr/bin/env python3
 
 import sys
+import re
 
-def my_printf(format_string,param):
-    #print(format_string)
-    shouldDo=True
-    for idx in range(0,len(format_string)):
-        if shouldDo:
-            if format_string[idx] == '#' and format_string[idx+1] == 'k':
-                print(param,end="")
-                shouldDo=False
-            else:
-                print(format_string[idx],end="")
-        else:
-            shouldDo=True
-    print("")
+def my_printf(format_string, param):
+    search = re.search("#a", format_string)
+    if not search:
+        return print(format_string)
+    
+    to_replace = format_string[search.start() : search.end()]
+    param_num = int(param)
+    param_n = len(str(param_num))
 
-data=sys.stdin.readlines()
+    res = int( (param_num * 2 ) / param_n )
+    
+    if res % 2 != 0:
+	res = hex(res)[2:]
+	
+    res = str(res)		
+    
+    print(format_string.replace(to_replace, res))
 
-for i in range(0,len(data),2):
-    my_printf(data[i].rstrip(),data[i+1].rstrip())
+data = sys.stdin.readlines()
+
+for i in range(0, len(data), 2):
+    my_printf(data[i].rstrip(), data[i+1].rstrip())
+
