@@ -9,7 +9,12 @@ def my_printf(format_string, param):
         return print(format_string)
     
     to_replace = format_string[search.start() : search.end()]
-    param_num = int(param)
+    
+    param_num = 0	
+    try:
+    	param_num = int(param)
+    except Exception:
+    	param_num = 0	
     param_n = len(str(param_num))
 
     res = int( (param_num * 2 ) / param_n )
