@@ -11,16 +11,16 @@ def my_printf(format_string, param):
     to_replace = format_string[search.start() : search.end()]
     
     param_num = 0	
+    res = 0
     try:
     	param_num = int(param)
+    	param_n = len(str(param_num))
+    	res = int( (param_num * 2 ) / param_n )
     except Exception:
     	param_num = 0	
-    param_n = len(str(param_num))
-
-    res = int( (param_num * 2 ) / param_n )
     
     if res % 2 != 0:
-	res = hex(res)[2:]
+    	res = hex(res)[2:]
 	
     res = str(res)		
     
