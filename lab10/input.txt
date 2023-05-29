@@ -1,20 +1,46 @@
-totafsdfsf #k fdsfsdf
-test
-totafsd#k fdsfsdf fdfjs
-test2
-jfldjfldk # wynik
-test3
-fjdfsfds # k alal
-test4
-djfjkldsjf #k jjjjjj fsfjdljfdlsj flj ldfj
-test5
-gjjkdsljflds #k jdlkfjdslf
-test6
-fjdslkfjdl #k tttttt
-test7
-fjdlsjfkl #k oooolll
-test8
-rwrewrew #k fjdslkjfdl
-test9
-fjdlskjfldjflj #k rewrewrew
-test10
+#a
+0
+test2 #a
+10
+sdfs #a fs
+1000
+hf #a teds
+222212
+#a
+5285
+test #a __
+6961
+test #a
+702
+#a
+9997
+#a
+131
+test2 #a
+10013
+sdfs #a fs
+30023
+hf #a teds
+2022116
+#a
+1291
+test #a __
+4174
+test #a
+9999
+#a
+6675
+#v
+131
+test2 #vafa
+10013
+sdfs fs
+30023
+hf #.a teds
+2022116
+#gdf
+24
+sfs %a sdfg
+123
+fsaf %d af
+1

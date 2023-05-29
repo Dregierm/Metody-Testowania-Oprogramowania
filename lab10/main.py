@@ -20,9 +20,9 @@ def my_printf(format_string, param):
     	param_num = 0	
     
     if res % 2 != 0:
-    	res = hex(res)[2:]
+    	res = hex(res)
 	
-    res = str(res)		
+    res = str(res).replace('0x', '')		
     
     print(format_string.replace(to_replace, res))
 
