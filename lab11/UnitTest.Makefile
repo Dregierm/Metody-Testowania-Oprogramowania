@@ -66,6 +66,7 @@ endef
 	
 	$(call perform_test,short,Short)
 	$(call perform_test,long,Long)
+	$(call perform_test,noparam,Noparam)
 
 
 	$(call restore_data)
@@ -78,6 +79,7 @@ generate:
 
 	$(call generate_answers,short)
 	$(call generate_answers,long)
+	$(call generate_answers,noparam)
 
 	$(call restore_data)
 
@@ -87,3 +89,4 @@ merge:
 
 	$(call merge_test,short)
 	$(call merge_test,long)
+	$(call merge_test,noparam)
